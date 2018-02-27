@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/25 16:10:17.000.733,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/25 16:12:22.000.777,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/26 18:53:34.000.440,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/26 18:53:44.000.117,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/26 18:58:00.000.289,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Projeto\Udm000.dfm</Transaction>
+    <Transaction>2018/02/26 18:58:00.000.289,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Projeto\Udm000.pas</Transaction>
+    <Transaction>2018/02/26 18:59:04.000.094,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/26 19:00:45.000.367,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/26 19:26:55.000.436,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Projeto\uTestePai.pas</Transaction>
+    <Transaction>2018/02/26 19:27:52.000.434,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/26 21:07:26.000.765,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projeto\uForm1.pas</Transaction>
+    <Transaction>2018/02/26 21:07:26.000.765,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projeto\uForm1.dfm</Transaction>
+    <Transaction>2018/02/26 21:07:37.000.075,=C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/26 21:30:47.000.714,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Projeto\uForm2.dfm</Transaction>
+    <Transaction>2018/02/26 21:30:47.000.714,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Projeto\uForm2.pas</Transaction>
+    <Transaction>2018/02/26 21:30:58.000.199,C:\Users\higor\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projeto\projetoTecnoSpeed.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
